@@ -21,7 +21,9 @@ You will work in groups of 4-5, and we expect you to **pair program** for the ma
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks (<a href="https://trello.com/b/JPdt327u/vagabond" target="_blank">example Trello board</a>).
 
-Commit changes at least once for each user story. Consider creating **automated tests** or even implementing TDD for any complex application behavior.
+Create at least 2 **automated tests** per sprint, and make sure they pass before moving on to the next sprint.
+
+Commit changes at least once for each user story.
 
 Put effort into your **design**. Use a CSS framework (e.g. Bootstrap), partials, and some custom CSS or Sass/Less.
 
