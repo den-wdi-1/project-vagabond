@@ -17,7 +17,7 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 **IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
 
-You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 4-5, and we expect you to **pair program** for the majority of the time you're writing code.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks (<a href="https://trello.com/b/JPdt327u/vagabond" target="_blank">example Trello board</a>).
 
@@ -50,31 +50,27 @@ Use the **[git collaborator scenario](./git-collaboration-workflow.md)</a>, feat
 
 ## Groups
 
-Each group has an assigned instructor or DIR, who will act as your client as well as give technical support during instructor-group meetings.
+Each group has an assigned instructor and a back-up, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group \#1 - Annabelle
-* Michael N
-* Ben
-* Vanessa
-* Jen
+#### Group \#1 - Zeb / James
+* Greg
+* Kayce
+* Charlie
+* Monica
+* Maddy
 
-#### Group \#2 - Alex
-* Matt L
-* Matt S
-* Sam
-* Val
+#### Group \#2 - JP / Kevin
+* Alison
+* Matt
+* Louie
+* Nick
 
-#### Group \#3 - Brianna
-* Anthony
-* Mike C
-* Kate
-* Wayne
-
-#### Group \#4 - Ben
-* Emilio
-* Camila
-* Kabah
-* Min
+#### Group \#3 - JP / Zeb
+* Kyle
+* Holly
+* Jamie
+* Abe
+* Mark
 
 
 
