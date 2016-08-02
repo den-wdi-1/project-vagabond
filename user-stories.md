@@ -38,15 +38,15 @@
 
 **A user should be able to:**
 
-1. View the "San Francisco" page (at "/cities/1") including:
+1. View the "Denver" page (at "/cities/1") including:
   * The site-wide header.
   * The name of the city.
   * An iconic photo of the city.
-1. View a list of posts on the San Francisco page:
+1. View a list of posts on the Denver page:
   * Sorted by newest first.
   * With the post titles linked to the individual post "show" pages.
-1. Use an "Add New Post" button on the San Francisco city page to pull up the new post form.
-1. Create a new post for San Francisco (**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>).
+1. Use an "Add New Post" button on the Denver city page to pull up the new post form.
+1. Create a new post for Denver (**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>).
 1. Click "Edit" on ANY individual post, and be redirected to the edit form.
 1. Click "delete" on ANY individual post, then:
   * See a pop-up that says: "Are you sure you want to delete #{title}?"
