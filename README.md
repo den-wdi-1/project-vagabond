@@ -54,14 +54,14 @@ Use the **[git collaborator scenario](./git-collaboration-workflow.md)</a>, feat
 
 Each group has an assigned instructor and a back-up, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group \#1 - Zeb / James
+#### Group \#1 - Zeb / Kevin
 * Greg
 * Kayce
 * Charlie
 * Monica
 * Maddy
 
-#### Group \#2 - JP / Kevin
+#### Group \#2 - JP / James
 * Alison
 * Matt
 * Louie
