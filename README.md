@@ -78,7 +78,7 @@ Each group has an assigned instructor and a back-up, who will act as your client
 
 ## Presentation
 
-Each group will present their project on **Friday, June 24th** starting at **10:00am** for 10 minutes.
+Each group will present their project on **Friday, August 5th** starting at **10:30am** for 10 minutes.
 
 Each member of your group should speak during your presentation and mention which parts of the project they worked on.
 
